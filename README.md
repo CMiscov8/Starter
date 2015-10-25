@@ -8,3 +8,5 @@ Things I learned along the way:
 <li>adding links</li>
 <li>adding images</li>
 <li>importing fonts</li>
+
+Pretty basic, but there it is...
