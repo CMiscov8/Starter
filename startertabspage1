@@ -1,0 +1,19 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="StarterTabs.css">
+</head>
+
+<body>
+
+	<h1><a href="startertabs.html">Back to Home Page</a></h1>
+
+<ul class="tabs">
+	<li class="active"><a href="startertabspage1.html">UVic</a></li>
+	<li><a href="startertabspage2.html">Sailing</a></li>
+	<li><a href="startertabspage3.html">Family History</a></li>
+	<li><a href="startertabspage4.html">Whatever</a></li>
+</ul>
+	<li><a href="https://www.uvcs.uvic.ca/aspnet/Login/index.aspx?continue=http://class.moodle.uvcs.uvic.ca/auth/cookie/login.php">Moodle</a></li>
+	<li><a href="https://github.com/">GitHub</a></li>
+	<li><a href="http://www.simplehtmlguide.com/">Basics</a></li>
+
+</body> 
