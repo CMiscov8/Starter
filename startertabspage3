@@ -1,0 +1,18 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="StarterTabs.css">
+</head>
+
+<body>
+	
+	<h1><a href="startertabs.html">Back to Home Page</a></h1>
+
+<ul class="tabs">
+	<li><a href="startertabspage1.html">UVic</a></li>
+	<li><a href="startertabspage2.html">Sailing</a></li>
+	<li class="active"><a href="startertabspage3.html">Family History</a></li>
+	<li><a href="startertabspage4.html">Whatever</a></li>
+</ul>
+
+	<li><a href="http://www.victoriags.org/">Victoria Genealogical Society</a></li>
+
+</body> 
