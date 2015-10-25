@@ -2,7 +2,7 @@
 Personalized Home Page
 
 Things I learned along the way:
-linking to .css
+<li>linking to .css</li>
 lists/tabs
 more colours
 adding links
