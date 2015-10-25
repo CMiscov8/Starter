@@ -1,0 +1,20 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="StarterTabs.css">
+</head>
+
+<body>
+	
+	<h1><a href="startertabs.html">Back to Home Page</a></h1>
+
+<ul class="tabs">
+	<li><a href="startertabspage1.html">UVic</a></li>
+	<li><a href="startertabspage2.html">Sailing</a></li>
+	<li><a href="startertabspage3.html">Family History</a></li>
+	<li class="active"><a href="startertabspage4.html">Whatever</a></li>
+</ul>
+
+	<li><a href="http://www.heavens-above.com/ISS_3D.aspx">View from the ISS</a></li>
+	<li><a href="http://northernbushcraft.com/gulfIslands/freecamping.htm">Free Camping. Free is good.</a></li>
+	<li><a href="http://allrecipes.com/recipe/11517/amaretti/?evt19=1">Amaretti Recipe</a></li>
+
+</body> 
