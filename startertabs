@@ -1,0 +1,14 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="startertabs.css">
+</head>
+<body>
+	<h1><a href="startertabs.html">Let's Begin</a></h1>
+<ul class="tabs">
+	<li><a href="startertabspage1.html">UVic</a></li>
+	<li><a href="startertabspage2.html">Sailing</a></li>
+	<li><a href="startertabspage3.html">Family History</a></li>
+	<li><a href="startertabspage4.html">Whatever</a></li>
+</ul>
+
+This will be my new Personal Home Page. Someday.
+</body> 
