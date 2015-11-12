@@ -10,5 +10,15 @@
 	<li><a href="startertabspage4.html">Whatever</a></li>
 </ul>
 
-This will be my new Personal Home Page. Someday.
+<div style="width:100%;">
+	<div style="float:left; width:30%;">
+		This will be my new Personal Home Page. <br>
+		I'm also using it to test ideas in coding. Wish me luck!
+	</div>
+	
+	<div class="rightbox">
+	</div>
+</div>
+
+
 </body> 
